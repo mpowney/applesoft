@@ -65,6 +65,6 @@ Capital `O` = lamp (INVERSE when lit). `<`/`>` = right-turn arrow lamps.
 Load `TRAFFIC.BAS` into an Apple II emulator (e.g. AppleWin, Virtual II) or
 an online AppleSoft BASIC interpreter, type `RUN`, and press any key to stop.
 
-The delay multiplier on line 5020 (`PD(CP) * 200`) can be adjusted to suit
+The delay multiplier on BASIC line 5020 (`PD(CP) * 200`) can be adjusted to suit
 emulator speed. The phase durations and intersection layout are in the `DATA`
 statements starting at line 9000.
