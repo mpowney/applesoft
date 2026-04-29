@@ -3,7 +3,7 @@
 ## TRAFFIC.BAS — Australian 4-Way Traffic Light Simulation
 
 An AppleSoft BASIC program that simulates traffic light sequencing for a
-four-way intersection on a left-hand drive (Australian) road system, running
+four-way intersection on a left-hand traffic (Australian) road system, running
 in standard 40×24 text mode.
 
 ### Features
